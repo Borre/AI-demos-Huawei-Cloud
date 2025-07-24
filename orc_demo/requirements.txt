@@ -1,0 +1,4 @@
+huaweicloudsdkocr==3.1.158
+huaweicloudsdkcore==3.1.158
+Pillow>=8.0.0
+python-dotenv>=0.19.0
